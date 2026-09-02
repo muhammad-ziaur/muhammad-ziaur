@@ -1,3 +1,5 @@
+<!--- banner --->
+<img src="./ziaur-banner.png" alt="Banner of the user">
 <br/>
 <!--- intro animation --->
 <div id="user-content-toc">
