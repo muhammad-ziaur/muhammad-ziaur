@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./ziaur-banner.png" alt="Banner of the user">
+<img src="./ziaur-banner.jpeg" alt="Banner of Muhammad Ziaur Rahman">
 <br/>
 <!--- intro animation --->
 <div id="user-content-toc">
