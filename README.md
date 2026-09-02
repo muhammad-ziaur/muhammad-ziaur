@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ziaur Rahman</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<br/>
+<!--- intro animation --->
+<div id="user-content-toc">
+  <ul align="center" style="list-style-type: none;">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Muhammad Ziaur Rahman</h1></summary>
+    <!--- extra --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9A3412&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Cyber+Security" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
 - 👋 Hi, I’m **[@muhammad-ziaur](https://github.com/muhammad-ziaur)**
   
