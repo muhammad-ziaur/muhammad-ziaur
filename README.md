@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ziaur Rahman</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
+- 👋 Hi, I’m **[@muhammad-ziaur](https://github.com/muhammad-ziaur)**
+  
 - 🌱 I’m currently learning **TypeScript, MERN stack.**
 
 - 💬 Ask me about **JavaScript, React, TypeScript.**
@@ -11,7 +13,7 @@
 <br/>
 
 
-##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+## <img src="https://media4.giphy.com/media/xig23UttwwCSJCa2Lh/giphy.webp" width ="30" height="30"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
 [![Languages](https://skillicons.dev/icons?i=c,cpp,html,css,javascript,typescript,py)](https://github.com/muhammad-ziaur)
