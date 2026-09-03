@@ -27,7 +27,7 @@
 
 <div>
   <p align="left">
-    <a href="https://facebook.com/ziaur.255" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+    <a href="https://facebook.com/ziaur.255" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="30" /></a>
   </p>
 </div>
 
