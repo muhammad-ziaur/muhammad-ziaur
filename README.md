@@ -23,11 +23,11 @@
 <br/>
 
 <!--- social --->
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIAL:</b>
+## <img src="https://media2.giphy.com/media/SA5IWJfBbNCgLpqKjl/giphy.webp" width="30" height="30"><b> FOLLOW ME ON SOCIAL</b>
 
 <div>
   <p align="left">
-    <a href="https://facebook.com/ziaur.255" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+    <a href="https://facebook.com/ziaur.255" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
   </p>
 </div>
 
@@ -35,7 +35,7 @@
 
 <!--- technology stack --->
 
-## <img src="https://media4.giphy.com/media/xig23UttwwCSJCa2Lh/giphy.webp" width ="30" height="30"><b> TECHNOLOGY STACK:</b>
+## <img src="https://media4.giphy.com/media/xig23UttwwCSJCa2Lh/giphy.webp" width ="30" height="30"><b> TECHNOLOGY STACK</b>
 
 ### Languages:
 [![Languages](https://skillicons.dev/icons?i=c,cpp,html,css,javascript,typescript,py)](https://github.com/muhammad-ziaur)
@@ -58,7 +58,7 @@
 <br/>
 
 <!--- Github statistics --->
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+## <img src="https://media1.giphy.com/media/AUlKe48NxwdzRBaGTC/giphy.webp" width="30" height="30"><b> GITHUB STATISTICS & ANALYSIS</b>
 
 ### Repository Stats & Streak:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ziaur&" alt="muhammad-ziaur" /></p>
