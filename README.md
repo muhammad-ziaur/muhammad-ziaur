@@ -11,14 +11,16 @@
 </div>
 
 - 👋 Hi, I’m **[@muhammad-ziaur](https://github.com/muhammad-ziaur)**
-  
-- 🌱 I’m currently learning **TypeScript, MERN stack.**
 
-- 💬 Ask me about **JavaScript, React, TypeScript.**
+- 🖥️ I’m currently leveraging **React.js, TypeScript, and TailwindCSS** for frontend. 
+  
+- 🌱 I’m currently exploring **MongoDB, Express.js, Node.js, and PostgreSQL** for upcoming integrations
+
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js**
 
 - 📫Feel free to reach me out **ziaur.contact@gmail.com**
 
-<!--- technology and tools --->
+<!--- technology stack --->
 <br/>
 
 
@@ -44,5 +46,9 @@
 
 <br/>
 
+<!--- Github statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
+### Repository Stats & Streak:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ziaur&" alt="muhammad-ziaur" /></p>
+
