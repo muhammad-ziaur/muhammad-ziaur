@@ -8,6 +8,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9A3412&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Cyber+Security" alt="Typing SVG" /></a>
   </ul>
 </div>
+<br/>
 
 - 👋 Hi, I’m **[@muhammad-ziaur](https://github.com/muhammad-ziaur)**
 
