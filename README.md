@@ -63,3 +63,6 @@
 ### Repository Stats & Streak:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ziaur&" alt="muhammad-ziaur" /></p>
 
+---
+<!--- profile view count --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-ziaur&label=Profile%20Views&color=1c1917&style=flat-square"/> </p>
