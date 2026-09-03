@@ -5,7 +5,6 @@
 <div id="user-content-toc">
   <ul align="center" style="list-style-type: none;">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Muhammad Ziaur Rahman</h1></summary>
-    <!--- extra --->
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9A3412&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Cyber+Security" alt="Typing SVG" /></a>
   </ul>
 </div>
@@ -20,9 +19,21 @@
 
 - 📫Feel free to reach me out **ziaur.contact@gmail.com**
 
-<!--- technology stack --->
+
 <br/>
 
+<!--- social --->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIAL:</b>
+
+<div>
+  <p align="left">
+    <a href="https://facebook.com/ziaur.255" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+  </p>
+</div>
+
+<br/>
+
+<!--- technology stack --->
 
 ## <img src="https://media4.giphy.com/media/xig23UttwwCSJCa2Lh/giphy.webp" width ="30" height="30"><b> TECHNOLOGY STACK:</b>
 
