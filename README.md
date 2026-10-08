@@ -1,16 +1,62 @@
-## Hi there 👋
+<!--- intro animation --->
+<div align="center">
+  <h1>Hi 👋, I'm Muhammad Ziaur Rahman</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=9A3412&center=true&vCenter=true&width=500&lines=Frontend+Engineer;Interested+in+Full+Stack" alt="Typing SVG" /></a>
+</div>
+<br/>
 
-<!--
-**muhammad-ziaur/muhammad-ziaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🛠️ I’m leveraging **React.js, Next.js, TypeScript, TailwindCSS** for Frontend 
+  
+- 🎯 I’m exploring **MongoDB, Express.js, Node.js, PostgreSQL** for upcoming integrations
 
-Here are some ideas to get you started:
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Feel free to reach me out **ziaur.contact@gmail.com**
+
+
+<br/>
+
+<!--- social --->
+## <img src="https://media2.giphy.com/media/SA5IWJfBbNCgLpqKjl/giphy.webp" width="30" height="30"><b> CONNECT</b>
+
+<div>
+  <p align="left">
+    <a href="https://facebook.com/ziaur.255" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="30" /></a>
+  </p>
+</div>
+
+<br/>
+
+<!--- technology stack --->
+
+## <img src="https://media4.giphy.com/media/xig23UttwwCSJCa2Lh/giphy.webp" width ="30" height="30"><b> TECHNOLOGY STACK</b>
+
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=cpp,html,css,javascript,typescript)](https://github.com/muhammad-ziaur)
+
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/muhammad-ziaur)
+
+### JavaScript Frameworks & Libraries:
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/muhammad-ziaur)
+
+### Database & Model:
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/muhammad-ziaur)
+
+### Deployment Platform:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify)](https://github.com/muhammad-ziaur)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode)](https://github.com/muhammad-ziaur)
+
+<br/>
+
+<!--- Github statistics --->
+## <img src="https://media1.giphy.com/media/AUlKe48NxwdzRBaGTC/giphy.webp" width="30" height="30"><b> GITHUB STATISTICS & ANALYSIS</b>
+
+### Repository Stats & Streak:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-ziaur&" alt="muhammad-ziaur" /></p>
+
+---
+<!--- profile view count --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-ziaur&label=Profile%20Views&color=1c1917&style=flat-square"/> </p>
